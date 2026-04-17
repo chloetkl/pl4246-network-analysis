@@ -27,14 +27,14 @@ This project applies network analysis to study the structure of statistical anxi
 install.packages(c("bootnet", "tidyverse", "igraph", "networktools", "keyplayer"))
 ```
 
-## 📄 Key Files
+## Key Files
 
 - `finalanalysis.Rmd` — main analysis script  
 - `finalanalysis.html` — rendered report  
 - `stars-data_132.csv` — dataset  
 
 
-## ⚡ RData Objects
+## RData Objects
 
 The following files are included to reduce computation time:
 
